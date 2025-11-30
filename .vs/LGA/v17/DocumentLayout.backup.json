@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code\\Uczelnia\\S5\\mod_dys\\LGA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33C15E5A-9239-4142-A418-00B30AA862A1}|LGA.vcxproj|D:\\Code\\Uczelnia\\S5\\mod_dys\\LGA\\automat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{33C15E5A-9239-4142-A418-00B30AA862A1}|LGA.vcxproj|solutionrelative:automat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C15E5A-9239-4142-A418-00B30AA862A1}|LGA.vcxproj|D:\\Code\\Uczelnia\\S5\\mod_dys\\LGA\\dependencies\\include\\automat.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{33C15E5A-9239-4142-A418-00B30AA862A1}|LGA.vcxproj|solutionrelative:dependencies\\include\\automat.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C15E5A-9239-4142-A418-00B30AA862A1}|LGA.vcxproj|D:\\Code\\Uczelnia\\S5\\mod_dys\\LGA\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{33C15E5A-9239-4142-A418-00B30AA862A1}|LGA.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\Code\\Uczelnia\\S5\\mod_dys\\LGA\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "D:\\Code\\Uczelnia\\S5\\mod_dys\\LGA\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-24T14:08:30.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "automat.h",
+              "DocumentMoniker": "D:\\Code\\Uczelnia\\S5\\mod_dys\\LGA\\dependencies\\include\\automat.h",
+              "RelativeDocumentMoniker": "dependencies\\include\\automat.h",
+              "ToolTip": "D:\\Code\\Uczelnia\\S5\\mod_dys\\LGA\\dependencies\\include\\automat.h",
+              "RelativeToolTip": "dependencies\\include\\automat.h",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-30T13:27:04.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "automat.cpp",
+              "DocumentMoniker": "D:\\Code\\Uczelnia\\S5\\mod_dys\\LGA\\automat.cpp",
+              "RelativeDocumentMoniker": "automat.cpp",
+              "ToolTip": "D:\\Code\\Uczelnia\\S5\\mod_dys\\LGA\\automat.cpp",
+              "RelativeToolTip": "automat.cpp",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAGgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-30T13:26:57.732Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
